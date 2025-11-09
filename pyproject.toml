@@ -1,0 +1,9 @@
+[project]
+name = "ComfyUI-ltx-Image-Processor"
+description = "A powerful ComfyUI image processing plugin that supports batch loading, processing and saving images while preserving original filenames and formats."
+version = "1.0.0"
+license = {text = "MIT"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/yourusername/ComfyUI-ltx-Image-Processor"
